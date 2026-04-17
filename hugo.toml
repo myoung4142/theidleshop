@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+LanguageCode= 'en-us'
+title = 'The Idle Shop'
+theme= 'ananke'
