@@ -1,6 +1,6 @@
 +++
 date = '2026-04-17T13:33:52-06:00'
-draft = true
+draft = false
 title = 'Establishing a Home on the Web'
 +++
 I used to view domain names as street addresses on the internet. The more unique, descriptive or desirable the URL, the more valuable the real estate. Years ago I purchased a few domain names I like and have been paying a small fee every year to clame that space. After years of abdicating space to the big platforms I have come to the conclusion that we need to claim our own space in this digital world. The big dogs are not doing us any favors and I am increasingly concerned about the homogeneity I am seeing on the web. 
